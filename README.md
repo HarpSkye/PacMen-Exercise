@@ -16,4 +16,4 @@ In order to add PacMan, click "Add PacMan" button on the top left corner. To sta
 - When the number of PacMan achieve certain amount, change the background color.
 
 ## License
-This project is licensed under the 
+This project is licensed under the [MIT License](https://github.com/HarpSkye/PacMen-Exercise/blob/main/LICENSE)
