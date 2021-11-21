@@ -1,5 +1,5 @@
 # PacMan
-## Factory for making pacmen
+## Factory for Making PacMen
 <img src="PacMan1.png">
 
 ## Description
