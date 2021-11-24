@@ -5,7 +5,7 @@
 ## Description
 - Create PacMan every time as you wish.
 - Automatically Add PacMan into the webpage by clicking the "Add OVERDRIVE" button.
-- Start playing using "Toggle Play"
+- Start and stop playing using "Toggle Play"
 - Each PacMan will bounce in different direction with variety of speend. 
 
 ## How to Run
